@@ -45,7 +45,7 @@ public class MainActivity extends ListActivity {
             @Override
             public void run() {
                 try{
-                    Request request =  new Request.Builder ()
+                    Request request =  new Request.Builder ( )
                             .url ("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko")
                             .build ();
 
