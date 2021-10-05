@@ -1,0 +1,25 @@
+
+F
+java:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º¦àıÄ/
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Ô„–ÿÄ/
+R
+java:S3985E"0Remove this unused private "NewsAdapater" class.(çëÖ½ûÿÿÿÿ8øƒşÄ/
+‡
+java:S4165T"eRemove this useless assignment; "context" already holds the assigned value along all execution paths.(÷Å³Ñşÿÿÿÿ8Şí–şÄ/
+I
+java:S1168£"+Return an empty collection instead of null.(¥¹ï8ÅåıÄ/
+E
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«»†ıÄ/
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8®ÙÕúÄ/
+u
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(†äÆèşÿÿÿÿ8ÅåıÄ/
+E
+java:S1604,"(Make this anonymous inner class a lambda(ÉãÃ®8Ÿ·ıÄ/
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8Ş­’ùÄ/
+]	java:S125K"<This block of commented-out lines of code should be removed.(…‘×çşÿÿÿÿ8ÇâÌ‚Å/
+c
+java:S2147 "ECombine this catch with the one at line 158, which has the same body.(ï­£Ä8ÅåıÄ/
+]	java:S125H"<This block of commented-out lines of code should be removed.(§”öƒüÿÿÿÿ8åÏ‚Å/
