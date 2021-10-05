@@ -39,7 +39,7 @@ public class MainActivity extends ListActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate (savedInstanceState);
 
-        mClient = new OkHttpClient ();
+        mClient = new OkHttpClient (); 
 
         new Thread (new Runnable () {
             @Override
